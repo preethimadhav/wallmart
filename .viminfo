@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1652794373,,"wq"
+|2,0,1652800845,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,26 @@
 # Registers:
 
 # File marks:
-'0  1  10  ~/deploy.sh
-|4,48,1,10,1652794373,"~/deploy.sh"
-'1  1  28  ~/stringutils.java
-|4,49,1,28,1652794178,"~/stringutils.java"
-'2  1  11  ~/dbutilss.java
-|4,50,1,11,1652794025,"~/dbutilss.java"
+'0  1  19  ~/dbutilss.java
+|4,48,1,19,1652800845,"~/dbutilss.java"
+'1  1  10  ~/deploy.sh
+|4,49,1,10,1652794373,"~/deploy.sh"
+'2  1  28  ~/stringutils.java
+|4,50,1,28,1652794178,"~/stringutils.java"
+'3  1  11  ~/dbutilss.java
+|4,51,1,11,1652794025,"~/dbutilss.java"
 
 # Jumplist (newest first):
+-'  1  19  ~/dbutilss.java
+|4,39,1,19,1652800845,"~/dbutilss.java"
 -'  1  10  ~/deploy.sh
 |4,39,1,10,1652794373,"~/deploy.sh"
+-'  1  10  ~/deploy.sh
+|4,39,1,10,1652794373,"~/deploy.sh"
+-'  1  28  ~/stringutils.java
+|4,39,1,28,1652794178,"~/stringutils.java"
+-'  1  28  ~/stringutils.java
+|4,39,1,28,1652794178,"~/stringutils.java"
 -'  1  28  ~/stringutils.java
 |4,39,1,28,1652794178,"~/stringutils.java"
 -'  1  28  ~/stringutils.java
@@ -50,6 +60,13 @@
 
 # History of marks within files (newest to oldest):
 
+> ~/dbutilss.java
+	*	1652800841	0
+	"	1	19
+	^	1	20
+	.	1	19
+	+	1	19
+
 > ~/deploy.sh
 	*	1652794372	0
 	"	1	10
@@ -63,10 +80,3 @@
 	^	1	29
 	.	1	28
 	+	1	28
-
-> ~/dbutilss.java
-	*	1652794023	0
-	"	1	11
-	^	1	12
-	.	1	11
-	+	1	11
